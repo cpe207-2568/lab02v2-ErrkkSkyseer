@@ -1,0 +1,51 @@
+.Title {
+    float: right;
+    text-align: center;
+    color: #adfad5;
+    font-family: "Jersey 15", sans-serif;
+    font-size: 180px;
+    margin: 0px;
+    padding: 10px;
+
+}
+
+.Link {
+    color: blue;
+    text-decoration: underline;
+}
+
+nav {
+    float: left;
+    background-color: rgb(250, 235, 215);
+    width: 20%;
+}
+
+body {
+    background-color: rgb(210, 182, 236);
+    font-family:"Comfortaa", sans-serif;
+}
+
+main {
+    float: left;
+    padding-left: 20px;
+}
+
+.callout {
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    border-style: double;
+    border-color: rgb(99,155,255);
+    border-width: 10px;
+    background-color: rgb(190, 239, 233);
+    max-width: 800px;
+}
+
+.callout span {
+    background-color: aquamarine;
+    text-decoration-style: dashed;
+}
+
+footer {
+    align-items: center;
+}
